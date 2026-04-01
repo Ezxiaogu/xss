@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/Ezxiaogu/xss/blob/main/1.yaml",
+    "url": "https://raw.githubusercontent.com/Ezxiaogu/xss/refs/heads/main/1.yaml",
     "urls": [
         {
-            "url": "https://github.com/Ezxiaogu/xss/blob/main/1.yaml",
+            "url": "https://raw.githubusercontent.com/Ezxiaogu/xss/refs/heads/main/1.yaml",
             "name": "Foo"
         }
     ]
